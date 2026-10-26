@@ -2,8 +2,7 @@
 
 <p align="center">
   <b>Analista Fiscal & Desenvolvedor de Software | Estudante de Ciência da Computação</b><br>
-    <b>Sou formado em Processos gerenciais, tenho vários cursos nas áreas fiscal/contabil </b><br>
-  Unindo mais de 15 anos de experiência em negócios/contabilidade com a criação de soluções tecnológicas eficientes na <b>DRP Soluções</b>.
+    Unindo mais de 15 anos de experiência em negócios/contabilidade com a criação de soluções tecnológicas eficientes na <b>DRP Soluções</b>.
 </p>
 
 ---
